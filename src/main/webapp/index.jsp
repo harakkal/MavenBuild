@@ -5,7 +5,7 @@
 
 <html>
     <head>
-        <title>Jenkins Deployment Training</title>
+        <title>Jenkins Deployment Training - Local Version</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
         <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-teal.css">
@@ -20,8 +20,8 @@
             <a class="w3-bar-item w3-button w3-border-bottom w3-large" href="#"><img src="https://www.w3schools.com/images/w3schools.png" style="width:80%;"></a>
             <a class="w3-bar-item w3-button w3-hide-large w3-large" href="javascript:void(0)" onclick="w3_close()">Close <i class="fa fa-remove"></i></a>
             <a class="w3-bar-item w3-button w3-teal" href="#">Home</a>
-            <a class="w3-bar-item w3-button" href="#">Link 1</a>
-            <a class="w3-bar-item w3-button" href="#">Link 2</a>
+            <a class="w3-bar-item w3-button" href="#">First Link</a>
+            <a class="w3-bar-item w3-button" href="#">Second Link</a>
             <a class="w3-bar-item w3-button" href="#">Link 3</a>
             <a class="w3-bar-item w3-button" href="#">Link 4</a>
             <a class="w3-bar-item w3-button" href="#">Link 5</a>
