@@ -24,4 +24,4 @@ jobs:
         run: mvn clean test
 
       - name: Trigger Jenkins Job
-        run: curl -X POST http://hanas:11ce939c81812b27f979f62419ed66079d@localhost:8080/job/TomcatDeploymentDemo/build
+        run: curl -X POST https://8d5b-5-194-150-10.ngrok-free.app/job/TomcatDeploymentDemo/build
